@@ -6,7 +6,7 @@ Implementation of fast mental poker protocol proposed in
     COMMUNICATION EFFICIENT SHUFFLE FOR MENTAL POKER PROTOCOLS TZER-JEN WEI  (2011)
     Fast Mental Poker (2010)
 
-( http://weijr-eng.blogspot.tw/2014/06/some-of-my-draft-papers-on-mental-poker.html )
+( you can find the draft at http://weijr-eng.blogspot.tw/2014/06/some-of-my-draft-papers-on-mental-poker.html )
 
 
 
